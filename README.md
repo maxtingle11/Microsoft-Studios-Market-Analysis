@@ -1,4 +1,18 @@
-# Mod 1 Project Instructions
+# Microsoft Movies Project
+
+Data Scientists - Nathan Venos & Max Tingle
+Flatiron School - DC Data Science Fellowship
+Module 1 Microsoft Project
+
+
+
+## Folder Contents
+1. Data Visualization (Technical Notebook)
+2. Data Cleaning (Technical Notebook)
+
+
+
+
 
 
 ## Congratulations! 
