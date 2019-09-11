@@ -4,6 +4,7 @@
 
 **Flatiron School** - Module 1 Project
 
+
 ## Project Description
 
 Microsoft hired us to help them understand the movie industry and make recommendations for their **new movie studio**. They have seen all the big companies creating original video content, and they want to get in on the fun. 
@@ -13,6 +14,8 @@ We have been charged with doing data analysis and creating a presentation that e
 
 ## Folder Contents
 
+*When making your way through our repository, please follow the numbered list below to explore the steps of our analysis.*
+
 1. README.md
 2. Microsoft Studios Presentation (PDF)
 3. Data Analysis (Technical Jupyter Notebook)
@@ -20,8 +23,6 @@ We have been charged with doing data analysis and creating a presentation that e
 5. Data (Folder)
 6. Figures (Folder)
 7. Archive (Folder)
-
-*When making your way through our repository, please follow the numbered list above to explore the steps of our analysis.*
 
 
 ## Methodology 
@@ -68,19 +69,12 @@ In order to create movies that yield high consumer engagement in terms of revenu
 
 ## Responsibilities
 
-Project Methodology - Nathan & Max
-
-IMDb Data Clean & Join - Max
-
-BOM & TN Data Clean & Join - Nathan 
-
-Visualizations - Together (Nathan Driving)
-
-Visualization Bells & Whistles - Nathan
-
-Data Cleaning Technical Notebook - Max
-
-Data Analysis Technical Notebook - Nathan
-
-Presentation - Max
+- Project Methodology - Nathan & Max
+- IMDb Data Clean & Join - Max
+- BOM & TN Data Clean & Join - Nathan 
+- Visualizations - Together (Nathan Driving)
+- Visualization Bells & Whistles - Nathan
+- Data Cleaning Technical Notebook - Max
+- Data Analysis Technical Notebook - Nathan
+- Presentation - Max
 
