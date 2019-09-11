@@ -22,7 +22,7 @@ We have been charged with doing data analysis and creating a presentation that e
 4. Data Cleaning (Technical Jupyter Notebook)
 5. Data (Folder)
 6. Figures (Folder)
-7. Archive (Folder)
+7. Exploration (Folder)
 
 
 ## Methodology 
