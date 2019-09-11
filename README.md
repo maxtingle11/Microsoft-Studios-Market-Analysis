@@ -1,8 +1,8 @@
 # Microsoft Movies Project
 
-**Data Scientists** - Nathan Venos & Max Tingle
-**Flatiron School** - Module 1 Project
+**Data Scientists** - Nathan Venos & Max Tingle 
 
+**Flatiron School** - Module 1 Project
 
 ## Project Description
 
@@ -38,10 +38,10 @@ Next, we cleaned and joined the four datasets listed in data sources section bel
 
 ## Recommendations
 In order to create movies that yield high consumer engagement in terms of revenue and ratings, we recommend that Microsoft use its technical proclivities to produce movies that are:
-1. animated,
-2. family-friendly,
-3. top-quality, and
-4. original franchises.
+1. Animated,
+2. Family-Friendly,
+3. Top-Quality, and
+4. Original Franchises.
 
 
 ## Data Sources
@@ -69,11 +69,18 @@ In order to create movies that yield high consumer engagement in terms of revenu
 ## Responsibilities
 
 Project Methodology - Nathan & Max
+
 IMDb Data Clean & Join - Max
+
 BOM & TN Data Clean & Join - Nathan 
+
 Visualizations - Together (Nathan Driving)
+
 Visualization Bells & Whistles - Nathan
+
 Data Cleaning Technical Notebook - Max
+
 Data Analysis Technical Notebook - Nathan
+
 Presentation - Max
 
