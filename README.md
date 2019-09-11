@@ -14,7 +14,7 @@ We have been charged with doing data analysis and creating a presentation that e
 
 ## Folder Contents
 
-*When making your way through our repository, please follow the numbered list above to explore the steps of our analysis.*
+*When making your way through our repository, please follow the numbered list below to explore the steps of our analysis.*
 
 1. README.md
 2. Microsoft Studios Presentation (PDF)
