@@ -7,7 +7,7 @@
 
 ## Project Description
 
-Business Case Simulation: Microsoft hired us to help them understand the movie industry and make recommendations for their **new movie studio**. They have seen all the big companies creating original video content, and they want to get in on the fun. We have been charged with doing data analysis and creating a presentation that explores what other studios are doing and which films are doing the best at the box office. We have translated our findings into actionable insights for the CEO to use when deciding what type of films Microsoft should be creating. 
+**Business Case Simulation:** Microsoft hired us to help them understand the movie industry and make recommendations for their new movie studio. They have seen all the big companies creating original video content, and they want to get in on the fun. We have been charged with doing data analysis and creating a presentation that explores what other studios are doing and which films are doing the best at the box office. We have translated our findings into actionable insights for the CEO to use when deciding what type of films Microsoft should be creating. 
 
 
 ## Folder Contents
