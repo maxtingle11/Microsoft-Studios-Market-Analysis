@@ -1,4 +1,4 @@
-# Microsoft Studios Market Analysis
+# Using Python for Data Cleaning, Visualization, and Descriptive Statistics in Simulated Microsoft Studios Market Analysis
 
 **Data Scientists** - Nathan Venos & Max Tingle 
 
